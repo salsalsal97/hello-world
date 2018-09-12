@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hi peeps!
+
+Sal here. I like pizza and memes tbh
+Maths is also my thing!
